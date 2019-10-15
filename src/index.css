@@ -10,17 +10,17 @@ h1 {
 }
 
 header {
-  background: rgb(25, 25, 25);
-  color: gold;
+  background: rgb(50, 50, 50);
+  color: rgb(200, 200, 200);
   padding: 10px 0px;
 }
 
 .movie-comp-container {
   width: 100%;
-  background: purple;
+  background: rgb(50, 50, 50);
   padding: 10px 0px;
   min-height: 100vh;
-  color: gold;
+  color: rgb(200, 200, 200);
 }
 
 .movies-container {
@@ -38,7 +38,7 @@ header {
   height: 340px;
   margin: 10px 0px;
   padding: 10px 0px;
-  background: gold;
+  background: rgb(200, 200, 200);
   border-radius: 12px;
 }
 
