@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Fav-Movies/static/css/main.062768e3.chunk.css",
+    "main.js": "/Fav-Movies/static/js/main.1bdb497d.chunk.js",
+    "main.js.map": "/Fav-Movies/static/js/main.1bdb497d.chunk.js.map",
+    "runtime-main.js": "/Fav-Movies/static/js/runtime-main.b9e445d2.js",
+    "runtime-main.js.map": "/Fav-Movies/static/js/runtime-main.b9e445d2.js.map",
+    "static/js/2.2b1073f1.chunk.js": "/Fav-Movies/static/js/2.2b1073f1.chunk.js",
+    "static/js/2.2b1073f1.chunk.js.map": "/Fav-Movies/static/js/2.2b1073f1.chunk.js.map",
+    "index.html": "/Fav-Movies/index.html",
+    "precache-manifest.aac5532b0c9257c5c7621267a1920e6b.js": "/Fav-Movies/precache-manifest.aac5532b0c9257c5c7621267a1920e6b.js",
+    "service-worker.js": "/Fav-Movies/service-worker.js",
+    "static/css/main.062768e3.chunk.css.map": "/Fav-Movies/static/css/main.062768e3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9e445d2.js",
+    "static/js/2.2b1073f1.chunk.js",
+    "static/css/main.062768e3.chunk.css",
+    "static/js/main.1bdb497d.chunk.js"
+  ]
+}
